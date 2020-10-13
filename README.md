@@ -1,5 +1,4 @@
 ### Hi there 👋
 
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=ismdeep&show_icons=true)
+- Enjoy programming and build awesome stuff.
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ismdeep&layout=compact)
