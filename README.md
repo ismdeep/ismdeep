@@ -6,11 +6,3 @@
 
 [![ismdeep's github stats](https://github-readme-stats.vercel.app/api?username=ismdeep&show_icons=true)](https://github.com/ismdeep)
 
-
-```mermaid
-graph TD;
-    A-->B;
-    A-->C;
-    B-->D;
-    C-->D;
-```
