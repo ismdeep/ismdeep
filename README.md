@@ -2,12 +2,12 @@
 
 - Enjoy programming and build awesome stuff.
 - I'm currently learning coding theory, cryptography and cloud computing.
-  > LDPC
-  > McEliece Crypt System
-  > QC-LDPC/QC-MDPC
-  > NTRU
-  > Kubernetes
-  > Matroid Theory Based
+  - LDPC
+  - McEliece Crypt System
+  - QC-LDPC/QC-MDPC
+  - NTRU
+  - Kubernetes
+  - Matroid Theory Based
 
 Golang Libraries
 
