@@ -24,6 +24,3 @@ import (
     "github.com/ismdeep/rand"
 )
 ```
-
-[![ismdeep's github stats](https://github-readme-stats.vercel.app/api?username=ismdeep&show_icons=true)](https://github.com/ismdeep)
-
